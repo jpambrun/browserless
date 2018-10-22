@@ -74,6 +74,7 @@ RUN apt-get update && \
   lsb-release \
   xdg-utils \
   wget \
+  git \
   curl &&\
   # Install Node
   curl --silent --location https://deb.nodesource.com/setup_8.x | bash - &&\
