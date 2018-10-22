@@ -5,5 +5,5 @@
   "V8-Version": "7.1.180",
   "WebKit-Version": "537.36 (@04c5a83e224a318822dfc687bbd99142bc7b0fed)",
   "Debugger-Version": "04c5a83e224a318822dfc687bbd99142bc7b0fed",
-  "Puppeteer-Version": "1.9.0"
+  "Puppeteer-Version": "jpambrun/puppeteer#disable-network-capture"
 }
